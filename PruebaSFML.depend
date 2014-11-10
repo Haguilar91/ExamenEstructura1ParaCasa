@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1415610225 source:c:\users\hector aguilar\documents\proyectos estructura\pruebasfml\main.cpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	<stack>
+	<stdlib.h>
+	<string>
+	<sstream>
+	<SFML/Audio.hpp>
+
